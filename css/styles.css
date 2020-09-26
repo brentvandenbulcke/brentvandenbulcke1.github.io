@@ -1,0 +1,21 @@
+body {
+    /*lettertype*/
+    font-family: Verdana, 'Trebuchet MS', sans-serif;
+    /*achtergrondkleur*/
+    background-color: bisque;
+    /*centreren*/
+    width: 850px;
+    margin: 10px auto;
+       
+    }
+img{
+    /*logo onder tekst */
+    display: block;
+    /*breedte wijzigen*/
+    width: 250px;
+    /*extra ruimte*/
+    padding: 10px;
+    }
+
+
+
